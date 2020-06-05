@@ -1,6 +1,4 @@
-# AIACourseWork
-
-This repo has Sem3 AIA Complete Course Work: ---
+# AIACourseWork : This repo has Sem3 AIA Complete Course Work: ---
 
 Project: Performace Evaluation of Various Denoising Algorithms: Wavelets, Tikonov's, Wiener algorithms
 
